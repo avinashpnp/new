@@ -15,7 +15,7 @@ public class Class2 {
   	public void m6() {
   		System.out.println(f+d);
   	}
-	
+//addedd amother class	
   	public static void main(String[] args) {
 Class2 a= new Class2();
 a.m4();
@@ -25,6 +25,7 @@ Class1 aa= new Class1();
 aa.m1();
 aa.m2();
 aa.m3();
+		
 
 
 
